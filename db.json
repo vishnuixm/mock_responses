@@ -1,0 +1,11 @@
+{
+  external_ids: [
+    "identify_by__email",
+    "identify_by__phone",
+    "user_id",
+    "google_analytics__client_id",
+    "facebook___fbq",
+    "facebook___fbc",
+    "intercom__visitor_id"
+  ]
+}
