@@ -1,12 +1,13 @@
 {
-  "external_ids": {
-    "data": [
-    "identify_by__email",
-    "identify_by__phone",
-    "user_id",
-    "google_analytics__client_id",
-    "facebook___fbq",
-    "facebook___fbc",
-    "intercom__visitor_id"
-  ]}
+    "external_ids": {
+        "data": [
+            {"label": "identify_by__email", "value": "identify_by__email", "notadded": true},
+            {"label": "identify_by__phone", "value": "identify_by__phone", "notadded": true},
+            {"label": "user_id", "value": "user_id", "notadded": true},
+            {"label": "google_analytics__client_id", "value": "google_analytics__client_id", "notadded": true},
+            {"label": "facebook___fbq", "value": "facebook___fbq", "notadded": true},
+            {"label": "facebook___fbc", "value": "facebook___fbc", "notadded": true},
+            {"label": "intercom__visitor_id", "value": "intercom__visitor_id", "notadded": true}
+        ]
+    }
 }
