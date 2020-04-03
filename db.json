@@ -9,5 +9,12 @@
             {"label": "facebook___fbc", "value": "facebook___fbc", "notadded": true},
             {"label": "intercom__visitor_id", "value": "intercom__visitor_id", "notadded": true}
         ]
+    },
+    "group_external_ids": {
+        "data": [
+            {"label": "domain", "value": "domain", "notadded": true},
+            {"label": "company_name", "value": "company_name", "notadded": true},
+            {"label": "website", "value": "website", "notadded": true}
+        ]
     }
 }
